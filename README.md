@@ -14,4 +14,5 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vengata-s
 Thanks for stopping by! 😊
 
 
+<img src="https://cdn-icons-png.flaticon.com/512/888/888839.png" width="50">
 
