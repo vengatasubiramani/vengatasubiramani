@@ -2,8 +2,6 @@
 I'm a Security Analyst with a passion for building innovative solutions. Welcome to my GitHub profile! Here's a little bit about me:<br><br>-🔭 I’m currently working on penetration testing project<br>-👀 I’m interested in cyber security analyst<br>-🌱 I’m currently learning Networks,security Analyst,pentesting<br>-💬 Ask me about Python,Java,Networks,cyber security or anything tech-related!<br>- 📫 How to reach me: [Email](mailto:vengatasubiramani@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vengata-subiramani-k-s-044ba9247/)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vengata-subiramani-k-s-044ba9247/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vengat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vengatasubiramani@gmail.com) 
 
 
 # 💻 Tech Stack:
