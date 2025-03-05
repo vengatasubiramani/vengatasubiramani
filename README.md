@@ -1,5 +1,5 @@
 - 👋 Hi, I’m vengatasubiramani
-- 👀 I’m interested in cyebr security analyst
+- 👀 I’m interested in cyber security analyst
 - 🌱 I’m currently learning Networks,security Analyst,pentesting
 - 📫 How to reach me Email | Linked In
 - 💬 Ask me about Python,Java,Networks,soc analyst or anything tech-related!
