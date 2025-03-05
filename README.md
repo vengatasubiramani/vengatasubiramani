@@ -16,3 +16,8 @@ Thanks for stopping by! 😊
 
 <img src="https://cdn-icons-png.flaticon.com/512/888/888839.png" width="50">
 
+<i class="fas fa-user-shield"></i> <!-- Security Analyst -->
+<i class="fas fa-shield-alt"></i> <!-- General Security -->
+<i class="fas fa-lock"></i> <!-- Cybersecurity -->
+<i class="fas fa-bug"></i> <!-- Pentesting / Bug Bounty -->
+<i class="fas fa-laptop-code"></i> <!-- Ethical Hacking -->
