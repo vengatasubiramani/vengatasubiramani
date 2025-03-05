@@ -1,4 +1,4 @@
-- 👋 Hi, I’m vengatasubiramani
+- 👋 Hi, I’m Vengata Subiramani
 - 👀 I’m interested in cyber security analyst
 - 🌱 I’m currently learning Networks,security Analyst,pentesting
 - 📫 How to reach me Email | Linked In
