@@ -1,5 +1,5 @@
 # Hi there, I'm vengat ! 👋
-I'm a Security Analyst with a passion for building innovative solutions. Welcome to my GitHub profile! Here's a little bit about me:<br><br>-🔭 I’m currently working on penetration testing project<br>-👀 I’m interested in cyber security analyst<br>-🌱 I’m currently learning Networks,security Analyst,pentesting<br>-💬 Ask me about Python,Java,Networks,cyber security or anything tech-related!<br>- 📫 How to reach me: [Email](mailto:vengatasubiramani@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vengata-subiramani-k-s-044ba9247/)
+I'm a Cyber Security Analyst with a passion for building innovative solutions. Welcome to my GitHub profile! Here's a little bit about me:<br><br>-🔭 I’m currently working on penetration testing project<br>-👀 I’m interested in cyber security analyst<br>-🌱 I’m currently learning Networks,security Analyst,pentesting<br>-💬 Ask me about Python,Java,Networks,cyber security or anything tech-related!<br>- 📫 How to reach me: [Email](mailto:vengatasubiramani@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vengata-subiramani-k-s-044ba9247/)
 
 
 
